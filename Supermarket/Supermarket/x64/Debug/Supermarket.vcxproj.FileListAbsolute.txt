@@ -1,0 +1,9 @@
+C:\Users\manis\source\repos\Supermarket\Supermarket\x64\Debug\Supermarket.vcxproj.AssemblyReference.cache
+C:\Users\manis\source\repos\Supermarket\Supermarket\x64\Debug\Supermarket.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\manis\source\repos\Supermarket\Supermarket\x64\Debug\Supermarket.Adminlogin.resources
+C:\Users\manis\source\repos\Supermarket\Supermarket\x64\Debug\Supermarket.Adminwork.resources
+C:\Users\manis\source\repos\Supermarket\Supermarket\x64\Debug\Supermarket.Buyerlogin.resources
+C:\Users\manis\source\repos\Supermarket\Supermarket\x64\Debug\Supermarket.Buyerwork.resources
+C:\Users\manis\source\repos\Supermarket\Supermarket\x64\Debug\Supermarket.MyForm.resources
+C:\Users\manis\source\repos\Supermarket\Supermarket\x64\Debug\Supermarket.vcxproj.GenerateResource.cache
+C:\Users\manis\source\repos\Supermarket\Supermarket\x64\Debug\Supermarket.Bill.resources
